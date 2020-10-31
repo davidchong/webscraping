@@ -30,5 +30,5 @@ Thus, the items are:
 - Price
 - Specifications
 - Descriptions
-+ Link
+- Link
 
