@@ -32,3 +32,5 @@ Thus, the items are:
 - Descriptions
 - Link
 
+Automated python script reference:
+https://www.youtube.com/watch?v=n2Cr_YRQk7o
